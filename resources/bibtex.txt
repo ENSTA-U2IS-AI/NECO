@@ -1,6 +1,8 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@misc{ammar2024neco,
+      title={NECO: NEural Collapse Based Out-of-distribution detection}, 
+      author={Mouïn Ben Ammar and Nacim Belkhir and Sebastian Popescu and Antoine Manzanera and Gianni Franchi},
+      year={2024},
+      eprint={2310.06823},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML}
 }
